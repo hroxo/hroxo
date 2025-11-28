@@ -34,13 +34,13 @@ I believe in learning by doing (and doing it fast!). Here are my proudest wins:
 We built a game-changing **End-to-End Retail Solution**!
 * **The Magic:** An automated image segmentation pipeline + **AI Agents** that assess shelf stock in real-time.
 * **My Role:** I led the tech strategy, integrated the system, and delivered the winning pitch!
-* [Check out the Project](#) 
+
 #### 🥈 2nd Place | The Retail Hack Sonae MC (2025)
 *Developer*
 Meet **"The Closet"** – A Smart Mirror concept.
 * **The Goal:** Revolutionize the in-store experience by making it personal and interactive.
 * **Tech:** IoT integration and Python logic.
-* [Check out the Project](#) 
+
 ---
 
 ### 🔬 Deep Tech & Research
