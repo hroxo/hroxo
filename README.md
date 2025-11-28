@@ -53,14 +53,8 @@ I come from a science background, so I love mixing hardware with code:
 
 ### ⚡ GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/hroxo">
-    <img src="https://github-readme-stats.vercel.app/api?username=hroxo&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Hugo's Stats" />
-  </a>
-  <a href="https://github.com/hroxo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hroxo&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Hugo's Top Languages" />
-  </a>
-</div>
+![Hugo's Stats](https://github-readme-stats.vercel.app/api?username=hroxo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroxo&layout=compact&theme=tokyonight)
 
 ---
 
