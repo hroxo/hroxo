@@ -1,51 +1,59 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">C, C++ & Python enthusiast | Future smart prosthetics innovator</h3>
+# Olá, eu sou o Hugo Roxo! 👋
+
+### Engenheiro Biomédico & Software Developer
+**Focado em Agentes de IA, Python e Soluções Web**
+
+Sou um Mestre em Engenharia Biomédica a evoluir para Software Engineering na **42 Porto**. A minha paixão é resolver problemas reais através de código, tendo vencido hackathons com soluções que integram Visão Computacional e IA Generativa.
 
 ---
 
-### 🚀 About Me
-- 💻 Focused on **low-level programming** and **embedded systems**  
-- 🦾 Dream: Build **intelligent prosthetics** combining **hardware, C/C++ firmware**, and **AI**  
-- 🧠 Background in **Computer Science & Bioengineering**  
-- 🧬 Experienced in **Machine Learning** and **Deep Learning** applications for **medical technologies**  
-- 🌱 Always learning and experimenting with **microcontrollers, sensors, and signal processing**  
+### 🛠️ Tech Stack & Ferramentas
+
+**Core & Backend:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**AI & Data:**
+![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
-  </p>
+### 🏆 Hackathon Highlights
+
+Acredito em aprender a construir sob pressão. Aqui estão os meus projetos premiados:
+
+#### 🥇 1º Lugar | Sonae x MC Digital x Microsoft Hackathon (2025)
+*Líder Técnico & Full Stack Dev*
+Desenvolvimento de uma solução "end-to-end" para retalho.
+- **A Solução:** Pipeline de segmentação de imagem automatizado e **Agentes de IA** para avaliação de prateleiras.
+- **Tech:** Computer Vision, Web UI, Data Analytics.
+- [Ver Repositório](#) #### 🥈 2º Lugar | The Retail Hack Sonae MC (2025)
+*Developer*
+- **A Solução:** "The Closet" - Um espelho inteligente para melhorar a experiência do cliente em loja.
+- **Foco:** Personalização e interação eficiente.
+- [Ver Repositório](#)
+
+---
+
+### 🚀 Projetos Académicos & Deep Tech
+
+- **Master's Thesis (IoT & ML):** Sistema de monitorização da qualidade do ar interior, integrando sensores Arduino com modelos de Machine Learning para prever riscos microbianos.
+- **The Guardian Angel:** Smart band para deteção de quedas em idosos usando Deep Learning para classificação de movimento.
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hroxo&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hroxo&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hroxo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroxo&layout=compact&theme=radical)
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hroxo&theme=tokyo-night" alt="GitHub activity graph"/>
-</p>
+### 📫 Vamos Conectar-nos?
 
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/hugo-roxo04?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:hugo.roxo04@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="40" width="40" /></a>
-</p>
-<!---
-hroxo/hroxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-roxo04)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.roxo04@gmail.com)
