@@ -1,59 +1,71 @@
-# Olá, eu sou o Hugo Roxo! 👋
+# Hi there, I'm Hugo Roxo! 👋
 
-### Engenheiro Biomédico & Software Developer
-**Focado em Agentes de IA, Python e Soluções Web**
+### 🧬 Biomedical Engineer turned Software Developer
+**Focused on AI Agents, Python & Web Solutions**
 
-Sou um Mestre em Engenharia Biomédica a evoluir para Software Engineering na **42 Porto**. A minha paixão é resolver problemas reais através de código, tendo vencido hackathons com soluções que integram Visão Computacional e IA Generativa.
-
----
-
-### 🛠️ Tech Stack & Ferramentas
-
-**Core & Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**AI & Data:**
-![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+Welcome to my profile! I’m a Master's student in Biomedical Engineering transitioning into **Software Engineering** at **42 Porto**. I love the thrill of building things that *actually* work. I thrive in hackathons, love solving complex problems, and right now, I'm deep-diving into **Generative AI** and **Web Development** to create smarter solutions.
 
 ---
 
-### 🏆 Hackathon Highlights
+### 🛠️ My Tech Toolbox
 
-Acredito em aprender a construir sob pressão. Aqui estão os meus projetos premiados:
+I love experimenting with new tech! Here is what I use to build my projects:
 
-#### 🥇 1º Lugar | Sonae x MC Digital x Microsoft Hackathon (2025)
-*Líder Técnico & Full Stack Dev*
-Desenvolvimento de uma solução "end-to-end" para retalho.
-- **A Solução:** Pipeline de segmentação de imagem automatizado e **Agentes de IA** para avaliação de prateleiras.
-- **Tech:** Computer Vision, Web UI, Data Analytics.
-- [Ver Repositório](#) #### 🥈 2º Lugar | The Retail Hack Sonae MC (2025)
+**🚀 Core & Backend**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**🧠 AI & Cloud**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🏆 Hackathon Adventures
+
+I believe in learning by doing (and doing it fast!). Here are my proudest wins:
+
+#### 🥇 1st Place | Sonae x MC Digital x Microsoft Hackathon (2025)
+*Tech Lead & Full Stack Developer*
+We built a game-changing **End-to-End Retail Solution**!
+* **The Magic:** An automated image segmentation pipeline + **AI Agents** that assess shelf stock in real-time.
+* **My Role:** I led the tech strategy, integrated the system, and delivered the winning pitch!
+* [Check out the Project](#) #### 🥈 2nd Place | The Retail Hack Sonae MC (2025)
 *Developer*
-- **A Solução:** "The Closet" - Um espelho inteligente para melhorar a experiência do cliente em loja.
-- **Foco:** Personalização e interação eficiente.
-- [Ver Repositório](#)
+Meet **"The Closet"** – A Smart Mirror concept.
+* **The Goal:** Revolutionize the in-store experience by making it personal and interactive.
+* **Tech:** IoT integration and Python logic.
+* [Check out the Project](#) ---
+
+### 🔬 Deep Tech & Research
+
+I come from a science background, so I love mixing hardware with code:
+
+* **🌬️ Air Quality Predictor (Master's Thesis):** I built an IoT system using Arduino and **Machine Learning** to sniff out microbial activity in indoor environments.
+* **🛡️ The Guardian Angel:** A smart band for the elderly that detects falls using **Deep Learning** models. Tech for good!
 
 ---
 
-### 🚀 Projetos Académicos & Deep Tech
+### ⚡ GitHub Stats
 
-- **Master's Thesis (IoT & ML):** Sistema de monitorização da qualidade do ar interior, integrando sensores Arduino com modelos de Machine Learning para prever riscos microbianos.
-- **The Guardian Angel:** Smart band para deteção de quedas em idosos usando Deep Learning para classificação de movimento.
+<div align="center">
+  <a href="https://github.com/hroxo">
+    <img src="https://github-readme-stats.vercel.app/api?username=hroxo&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Hugo's Stats" />
+  </a>
+  <a href="https://github.com/hroxo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hroxo&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Hugo's Top Languages" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Let's Connect!
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hroxo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroxo&layout=compact&theme=radical)
+I'm always open to discussing **AI Agents**, **Python**, or cool new projects. Feel free to reach out!
 
----
-
-### 📫 Vamos Conectar-nos?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-roxo04)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.roxo04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-roxo04)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.roxo04@gmail.com)
