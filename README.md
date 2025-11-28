@@ -40,7 +40,8 @@ We built a game-changing **End-to-End Retail Solution**!
 Meet **"The Closet"** – A Smart Mirror concept.
 * **The Goal:** Revolutionize the in-store experience by making it personal and interactive.
 * **Tech:** IoT integration and Python logic.
-* [Check out the Project](#) ---
+* [Check out the Project](#) 
+---
 
 ### 🔬 Deep Tech & Research
 
