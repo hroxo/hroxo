@@ -1,4 +1,4 @@
-# Hi there, I'm Hugo Roxo! 👋
+# Hi there, I'm Hugo! 👋
 
 ### 🧬 Biomedical Engineer turned Software Developer
 **Focused on AI Agents, Python & Web Solutions**
